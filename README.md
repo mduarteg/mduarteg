@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the project **PixelSuite**
 
-- 🌱 I’m currently learning **Quarkus, AWS**
+- 🌱 I’m currently learning **Spring AI**
 
 - 📫 How to reach me **duartedgo@gmail.com**
 
