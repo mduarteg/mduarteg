@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín Duarte</h1>
 <h3 align="center">A software developer from México</h3>
 
-- 🔭 I’m currently working on the project **PixelSuite**
+- 🔭 I’m currently working on the project **MAE Virtual**
 
 - 🌱 I’m currently learning **Spring AI**
 
